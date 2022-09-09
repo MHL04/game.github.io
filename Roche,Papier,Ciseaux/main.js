@@ -5,7 +5,7 @@ const gameScore=document.getElementById("gameScore");
 const paper=document.getElementById("paper");
 const rock=document.getElementById("rock");
 const scissors=document.getElementById("scissors")
-let mssge=document.getElementById("mssge");
+
 const scoreboard=document.getElementById("scoreboard")
 
 
